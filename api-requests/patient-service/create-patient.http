@@ -3,8 +3,8 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-    "name":"Shashini Madushika",
-    "email":"shashini@gmail.com",
+    "name":"Shashini Madushika siriwardhana",
+    "email":"shashini123@gmail.com",
     "address":"Colombo",
     "dateOfBirth":"1999-10-09",
     "registeredDate":"2025-09-01"
